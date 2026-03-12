@@ -1,4 +1,4 @@
-# Platinum C++ Framework @ Pt-Framework
+# Platinum C++ Framework
 
 [![Website](https://img.shields.io/badge/Website-pt--framework.net-darkred?style=flat-square)](https://pt-framework.net)
 [![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)](https://en.cppreference.com/w/)
@@ -11,5 +11,4 @@ write high-performance applications for many platforms with only one codebase.
 It provides a large amount of features and is still very easy to use. It
 intergrates well into existing toolkits and frameworks.
 
-- 🌐 **Website & Documentation:** [pt-framework.net](https://pt-framework.net)
-- 📦 **Main Repository:** [Pt](https://github.com/Pt-Framework/Pt)
+📦 **Main Repository:** [Pt](https://github.com/Pt-Framework/Pt)
